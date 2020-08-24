@@ -1,8 +1,7 @@
 # Adesh_Dev
 
 Requirements:
-IDE - Intellij
-Maven
+IDE - Intellij, Maven
 
 Steps:
 1. Clone the project(Initial) in your local machine.
